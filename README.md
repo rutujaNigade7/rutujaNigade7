@@ -9,4 +9,4 @@ Hi, I'm Rutuja Nigade
 
 Connect with me – LinkedIn 
 
-Languages and Tools – Git, Java, JavaScript, MongoDB, MySql, Angular, Eclipse, Intellij, Dbveaver
+Languages and Tools – Git, GitHub, Bitbucket, Java, JavaScript, MongoDB, MySql, Angular, Eclipse, Intellij, Dbveaver
