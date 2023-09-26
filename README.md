@@ -1,6 +1,6 @@
-Hi, I'm Rutuja Nigade
-A passionate Full Stack Developer.
-Currently working on Java,JSP
-Currently exploring Git Commands & its Flow.
-All of my projects are available at https://github.com/rutujaNigade7/
+1.Hi, I'm Rutuja Nigade
+2.A passionate Full Stack Developer.
+3.Currently working on Java, JSP
+4.Currently exploring Git Commands & its Flow.
+5.All of my projects are available at https://github.com/rutujaNigade7/
 
